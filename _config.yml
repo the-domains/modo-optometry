@@ -1,0 +1,28 @@
+name: Modo Optometry
+favicon: null
+layout_spectrum: 0.34993149735964835
+typography_spectrum: 0.3970223474316299
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3386211597826332
+  lightness: 0.20764307561330497
+  saturation: 0.8712436705827713
+  rhythmicContrast: 0.3534805297385901
+purpose: []
